@@ -1,9 +1,1 @@
-hello
-
-<<<<<<< HEAD
-David Chursa KHPI 
-=======
-
-David Chursa KHPI 
-
->>>>>>> b07db1247b2bf42c74880d3a220e24b2b41ebc16
+hello                                           
